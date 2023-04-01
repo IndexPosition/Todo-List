@@ -1,8 +1,19 @@
 # Todo-List
-Todo List using Python and MySQL
+Todo List using Python and MySQL. 
 
-This Project is under construction.
+## Requirements
 
+- tkinter
+- mysql.connector
+- datetime
 
-What GUI we want: 
-![image](https://user-images.githubusercontent.com/99633082/199493222-e0763672-d953-493c-b8a1-cb6cdcb8c481.png)
+## Features
+
+The application allows you to:
+
+  - Add new tasks with a due date.
+  - View the list of all the tasks, sorted by due date if wanted.
+  - Delete tasks.
+  - Mark tasks as completed.
+  
+  
